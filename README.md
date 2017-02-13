@@ -2,7 +2,7 @@
 
 > An image-upload component for vue.js
 
-![An image-upload component for vue.js preview](https://raw.githubusercontent.com/mysoundsf/quasarImagePicker/preview.gif)
+![An image-upload component for vue.js preview](https://github.com/mysoundsf/quasarImagePicker/blob/master/preview.gif)
 
 # Installation
     
