@@ -1,0 +1,28 @@
+{
+  "name": "quasarImagePicker",
+  "version": "0.1.0",
+  "description": "An image-upload component for vue.js",
+  "main": "./main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mysoundsf/quasarImagePicker.git"
+  },
+  "keywords": [
+    "vue",
+    "connection-status",
+    "image",
+    "photo",
+    "upload"
+    "gallery",
+    "camera"
+  ],
+  "author": "Florian Grassmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mysoundsf/quasarImagePicker/issues"
+  },
+  "homepage": "https://github.com/mysounds/quasarImagePicker#readme",
+  "peerDependencies": {
+    "vue": "2.x.x"
+  }
+}
